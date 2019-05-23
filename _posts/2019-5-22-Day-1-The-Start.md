@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Start of the Adventure
+title: Day 1 - The Start of the Adventure
 ---
 
 The first post is probably the most boring post, not sure what to say, not sure where this is going, which means its just a sort of rambling shambling post.  Learning another new piece of technology in order to get this up and running in an easy way.  Using github pages, and jekyll makes for an easy transition.  jekyll is something that I will have to spend time learning in order to one day have a fancy blogs.  For right now, it is just the vehicle to start tracking this great quest to move into a new rising set of technologys: Machine Learning, Data Science, and fun with AI.  I look forward to writing an AI that can play a game all on its own.
