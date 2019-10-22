@@ -10,3 +10,5 @@ I've been casually watching videos and learning little tidbits when it comes to 
 The cirriculum I'm going to follow comes from two different places. The first is dataquest.io, which has solid tracks for learning data science.  The second is MIT opencourseware, which I will use for all the math.  All the math.
 
 I completed the first project from dataquest.io and have linked the jupyter notebook below.  It was a fun project, and while I didn't learn a lot, I did learn some interesting tidbits.  The main takeaway was the methodology for working through cleaning and preparing files for futher analysis.  Some of the techniques, like looping, I would not have used, but it was how the course wanted it done.  Enjoy and until next time.
+
+https://colab.research.google.com/github/Sully4071/data-science-projects/blob/master/lesson1/Basics.ipynb
